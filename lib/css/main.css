@@ -2,22 +2,6 @@
  * Main CSS
  * 
  */
-body {
-  font-family: 'Prompt', sans-serif;
-}
-
-.container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-top: 10px;
-}
-
-.rec-container {
-  display: flex;
-  flex-direction: column;
-  margin-top: 10px;
-}
 
 .square {
   width: 75px;
